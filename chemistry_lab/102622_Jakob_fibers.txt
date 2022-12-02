@@ -1,0 +1,3 @@
+wraped all the fibers from Jakob in aluminium foil
+--> note: the BPEA fibers are swapped: the fiber in the foil with the number 1 should be in number 2 and reverse
+wrote Christian about how to proceed

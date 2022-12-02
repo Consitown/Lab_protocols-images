@@ -1,0 +1,9 @@
+as also Jakob did it: same immersion time as last time=80 s and max coating velocity
+first things first: refill (to 21.5 cm):
+	current height=21.5 cm --> no refill needed
+cleaned ruler thoroughly
+--> proceed with coating
+
+--> coated at 24.8 °C (went smoothly)
+--> another dry for 48 hours
+new refill height=21.45 cm (the line on the ruler bulges, base at 21.4 cm)

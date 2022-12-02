@@ -1,0 +1,10 @@
+evap height: 21.35 cm --> refill 5 ml of Toluene
+cleaned strip of dust with pressurized air
+adjusted the holding desigh a bit (see images)
+coated strip: cause of displacement, I coated around 22 cm of the strip
+around 5 cm of the strip were victim of the non-ideal holding conditions --> might have layer of more irregular paint
+
+new refill height: 21.35 cm (bulge)
+coating temperature: before=24.1°C after=24.4°C
+
+prooced to let it dry over weekend

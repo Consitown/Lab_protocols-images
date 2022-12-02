@@ -1,0 +1,22 @@
+trial-cylinder measurements:
+8 small ones: length 21 cm
+1 big one: length 29.9 cm 
+uniformly 6 mm in diameter
+
+trial-cylinder coating:
+height of evap after refill: no refill (last height on 08/25/22: 21.7 cm)
+immersion depth: not done
+height of evap when cylinders immersed: not done
+height of evap after coating: not done
+
+normal cylinder measurements:
+length: 21 cm
+diameter: 6 mm
+
+- could not immerse cylinders in evap, since the scaffholding is not yet ready. The 3 threads (Gewinde) are coated --> not possible to
+  fix in place. Need more Toluene to dissolve the residue of evap of the other, more suitable, scaffholdings.
+
+Volume of immersed cylinders: pi*(0.6/2)^2*(21-1)*8=45.23893421169302 cm^3 (basically 47.5 cm^3)
+(-1 because of the strip)
+Volume of evap: pi*(11.52/2)^2*21.7=2261.801946 cm^3
+Volume of plateau: pi*(5.3/2)^2*1.7=37.5 cm^3

@@ -1,0 +1,15 @@
+cleaned the cylinders again with anti-static plastic cleaner, but this time using the proper Labortücher.
+--> one hour under fume for discharging
+in the mean time: looking for the right coating parameters from Jakob
+
+found parameters: immersion time (time cylinders stay at max immersion)=80 s
+			velocity: as fast as possible --> 150 mm/min with effective velocity of around 155.25 mm/min (see other .txt-doc)
+
+evap fill height: 21.55 --> refill pi*(11.52/2)^2*21.6-pi*(11.52/2)^2*21.55=5.2 ml
+new method for coating: ruler is exactly 30 cm (as max down position of coater) --> just measure resulting immersion with ruler and
+				substract the Verdrängungsunterschied (around 0.8 cm + a bit more)
+- first coating of the cylinders (went smoothly) at 23.3 °C
+- left the cylinder under fume to dry them
+new refill height: 21.5 cm
+
+after first coating: double coating should be applied at the next opportunity (prob. Monday 09/12/2022)

@@ -1,0 +1,17 @@
+organized the arrived orders
+put some "Wattestäbchen" in the detector lab for the reapply of the optical grease
+
+dimensions of non-coated strip:
+	width: 5 cm
+	depth: 0.5 cm
+	length: 18.4 cm
+volume of non-coated strip=5*0.5*18.4=46 ml
+--> displacement in evap-vessel: 46/(pi*(11.52/2)^2)=0.44 cm (has to be substracted from final immersion depth)
+
+flipped the orientation for the holder of the dip-coater --> more room for strip (see images)
+
+final immersion depth=18.4+heigth above paint level-0.44=18.4+9-0.44=26.96 cm
+
+coated the other side of the strip (better quality than the first side)
+temperature: 24.1 °C
+new refill height: 21.25 cm

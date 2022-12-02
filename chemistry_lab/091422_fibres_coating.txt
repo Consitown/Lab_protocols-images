@@ -1,0 +1,7 @@
+refill: height diff=0.05cm
+--> refill pi*(11.52/2)^2*21.45-pi*(11.52/2)^2*21.40=5.211 ml
+
+measure height of coating using the visible height of coating on the threads of the scaffholding
+coated the fibres up to a height of (holding is excluded): 19 cm (expected more) and at temperature of 23.6°C
+--> hang to dry (48 hrs)
+new refill height=21.4 cm

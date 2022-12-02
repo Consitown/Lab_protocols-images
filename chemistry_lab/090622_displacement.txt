@@ -1,0 +1,21 @@
+today:-managed to fix the scaffholding
+	-no refill needed, fill height at 21.7 cm
+space between paint and scaffholding: 12 cm
+12+21+1.7=34.7 cm  -1=33.7 cm
+Volume of evap+cylinders+plateau=45.24+2261.8+37.5=2344.546 cm^3
+--> resulting filling height = 2346.8/(pi*(11.52/2)^2)=22.494 cm
+height gain per cm immersed = (22.494-21.7)/22.7=0.03497
+--> resulting depth in control programm: 33.7-0.03497*(20+1.7)=32.941 cm
+
+NOTE: One has to use a longer shaft to hold the scaffholding.
+	Max immersion is 30 cm --> use at least 15 cm shaft
+
+--> since max immersion is 30: 32.941-30=2.941+1 (strip)=3.941
+what I measured: a residue of around 3.8 cm
+--> calcs were correct --> proceed to coat the real thing (lot of prep needed)
+
+new refill height (height after test coating): 21.6 cm
+
+
+pattern for future dips:
+21+1.7+9.4=32.1-1=31.1

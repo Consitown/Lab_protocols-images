@@ -1,0 +1,18 @@
+testing new coating variant for a better strip for Christophe
+- trying to use tape to isolate some parts from paint (interaction tape-paint is unknown)
+- first: cleaning of test strip
+- rebuilding of holding (see images)
+
+one result from experience: 	apply tape after cleaning only the end part and then proceed to clean the rest
+					for safety: only one tape at a time
+
+- coating
+- one "accident" - strip was not holded tight enough --> prematurely dropped into paint
+
+result (see images):
+its not really working
+I get significantly less paint on taped region, but the paint is not blocked entirely
+It seems that the tape gets curled when immersed in the paint --> opening for paint to go in
+It seems also possible that the paint penetrates the tape via osmosis
+
+--> next try (after drying): multiple layers of tape

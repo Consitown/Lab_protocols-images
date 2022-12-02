@@ -1,0 +1,15 @@
+refill with 1 ml of Toluene
+dimensions of non-coated strip:
+	width: 5 cm
+	depth: 0.5 cm
+	length: 18.4 cm
+volume of non-coated strip=5*0.5*18.4=46 ml
+--> displacement in evap-vessel: 46/(pi*(11.52/2)^2)=0.44 cm (has to be substracted from final immersion depth)
+
+final immersion depth=18.4+heigth above paint level-0.44=18.4+8-0.44=25.96 cm
+
+2nd coating of the other side of the strip (better quality than the first side)
+temperature: 24.2 °C
+new refill height: 21.20 cm
+
+--> strip is done and dry by Monday next week

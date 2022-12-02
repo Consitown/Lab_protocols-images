@@ -1,0 +1,10 @@
+refilled with 2 ml Toluene
+coated the strip the 2nd time at 23.9 °C
+new refill height: 21.3 cm
+
+notes:end of strip is heavily coated --> not suited for connecting to PM's
+	part of around 4 cm of strip is irregulary painted
+	reasons:	strip is too long for the setup --> premature emerging in paint
+			longer emersion in paint + manual withdrawl (irregular withdrawl speed)
+
+one thing to do before next painting process: exactly measure how much should be emersed in paint

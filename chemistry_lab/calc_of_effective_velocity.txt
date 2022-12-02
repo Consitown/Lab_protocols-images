@@ -1,0 +1,12 @@
+some stats from 06092022_Verdrängung:
+
+height gain per cm immersed = 0.035 cm
+NOTE:	height gain per cm immersed != height loss per cm withdrawn: when the cylinders are withdrawn, paint sticks to them resulting
+	in a effective loss of paint volume --> fill height before and after coating are different
+	BUT: gain in immersion and loss by withdraw are about the same
+
+due to the height gain: If one immerses at 1 cm/s --> effective 1.035 cm/s immersion speed.
+				--> 1.035 cm/s=62.1 cm/min=621.00 mm/min
+max speed of coater: 150 mm/min=15 cm/min=0.25 cm/s
+			--> every 4 s, one additional cm is added
+			--> effective vel=(0.25+0.035/4) cm/s=0.25875 cm/s=155.25 mm/min
