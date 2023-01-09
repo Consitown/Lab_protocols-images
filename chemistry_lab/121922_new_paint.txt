@@ -1,0 +1,12 @@
+produced some new standard paint with Andrew
+- weight of magnet: 42.2 g
+- new filling height for standard paint: 19.6 cm
+first beaker:
+	- 413.3 g Toluone
+	- 122.1 g Paraloid
+	- 0.733 g Bis-MSB (0.742 g in additional beaker)
+	- 1.465 g p-Therphenyl (1.5 g in additional beaker)
+amount of Toluene after solving Paraloid: 398.5 g
+remaining Bis-MSB/p-Therphenyl in beaker: 0.02 g / 0.04 g
+
+filled new paint into the tube (was still a bit warm)
