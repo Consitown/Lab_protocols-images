@@ -1,0 +1,25 @@
+prep for coating of new strip
+
+displacemnet of new strip : 29 (what I want to coat) * 5 * 0.5 = 72.5 ml --> 0.763 cm displacement
+max height of paint is 30 cm --> if filled to 29 cm, it is enough to immerse strip by 29 - 0.763 = 28.237 cm (if end of strip is exactly above surface)
+--> refill standard paint up to 29 cm
+but first: restore filling height of standard paint; last measurement: 8.7 cm (from top), current: 8.8 cm --> refill with 10 ml Toluene
+
+paint from yesterday: measure weight --> refill Toluene such that weight = 616 g
+measured weigt: 575 g --> filled in Toluene
+
+got strip --> cleaning + prep of tape
+measured exact strip dimension (ruler): 29 x 5 x 0.45 = 65.25 ml --> 0.69 cm displacement if emerged fully
+1 cm safe zone (also for holding) --> only 0.663 cm displacement
+
+distance surface - holder: around 34 + 1.7 = 35.7 cm
+strip length: 35.7 - 29 = 6.7 cm left for tape (max tape length)
+needed strip depth: 28 (what I want to coat) - 0.663 (displacement) = 27.337 cm
+but max immersion is 30 cm --> strip needs to be over paint surface at most 30 - 27.337 = 2.663 cm
+--> min tape length = 6.7 - 2.663 = 4.037 cm
+--> use around 5 cm tape
+
+2 cm above surface --> 27.337 + 2 = 29.337 cm immersion in dipcoater
+
+coating at 22.9 °C
+new filling heigth: 1.7 cm

@@ -1,0 +1,18 @@
+final? paint production for Christophe
+
+--> measure remaining height in standard paint cylinder: 8.7 cm (like last measurement --> no refill)
+
+8.7 cm remaining --> production of 753.33 ml paint
+volume of strip to be coated: 29*5*0.5 = 72.5 ml --> production of 680.83 ml standard paint
+--> produce 700 ml and fill in only 680.83 ml
+
+--> materials needed for 700 ml standard paint: 478 g Touluene, 137 g Paraloid, 0.826 g Bis-MSB, 1.65 g p-Terphenyl
+
+commence production:
+filled toluene, paraloid in different beakers
+slow mix at 150 °C and increasing rpm
+filled 1.63 + 0.13 g p-Terphenyl in blue cap
+filled 0.825 + 0.05 g Bis-MSB in another blue cap (addidional amount is because some will remain)
+after paraloid is completly dissolved: slowly add Bis-MSB, p-Terphenyl
+remaining Bis-MSB: 
+remaining p-Terphenyl: 0.1 g
